@@ -21,6 +21,6 @@
     "canvas-sketch": "0.7.3",
     "canvas-sketch-util": "1.10.0",
     "dat.gui": "0.7.7",
-    "three": "0.117.1"
+    "three": "0.125.0"
   }
 }
